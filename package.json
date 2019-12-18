@@ -1,0 +1,18 @@
+{
+  "name": "selenium-node",
+  "version": "1.0.0",
+  "description": "Prototyping browser operation with selenium",
+  "main": "main.js",
+  "git repository": "https://github.com/ArtcYu/AutoOpe.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "yu.hirose",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5",
+    "selenium": "^2.20.0"
+  }
+}
